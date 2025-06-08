@@ -1,4 +1,4 @@
-package com.alojamiento.proyecto;
+package com.alojamiento.proyecto.alojamiento;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

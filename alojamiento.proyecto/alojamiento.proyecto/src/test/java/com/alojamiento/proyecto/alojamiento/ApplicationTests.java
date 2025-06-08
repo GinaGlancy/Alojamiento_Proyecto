@@ -1,4 +1,4 @@
-package com.alojamiento.proyecto;
+package com.alojamiento.proyecto.alojamiento;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
